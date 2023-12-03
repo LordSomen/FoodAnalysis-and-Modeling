@@ -15,7 +15,8 @@ At this juncture, our commitment to excellence propels us to delve deeper into t
 
 Python, Jupyter Notebook, Scikit-Learn, Classifier , Regressor , Text Mining , NLP , SQL , SQLAlchemy.
 
-
+## Screen Shot
+![LDA Vis](https://github.com/LordSomen/FoodAnalysis-and-Modeling/assets/29105619/fc0f1289-7b85-4f29-ac53-ba13e6f30709)
 
 ## Badges
 
