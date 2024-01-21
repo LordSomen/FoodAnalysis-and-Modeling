@@ -1,7 +1,7 @@
 
 # Food Analysis & Modeling
 
-This project is trying to Process , Analyze and Create Predictive modeling on a large set Food Data by Using Text Mining and NLP processes.
+This project is trying to Process , Analyze and Create Predictive modeling on a large set Food Data by Using Text Mining and NLP processes On Different type of Machine Learning Algorithms and evaluate & compare the performances depending on different factors.
 
 ## Description
 
@@ -10,6 +10,11 @@ In the course of this project, I am exploring innovative approaches to process, 
 The focal point of our efforts has been the development of a Regression Model and a Classification Model. These models are designed to predict the scores of reviews, discerning nuances in sentiment and categorizing them as positive or negative. Our journey involved navigating through a plethora of reviews to build a robust understanding of the factors influencing the overall score.
 
 At this juncture, our commitment to excellence propels us to delve deeper into the realm of analysis. We are actively engaged in expanding our dataset and incorporating different machine learning techniques to enhance the precision and scope of our models. This ongoing pursuit of knowledge and refinement is steering us towards uncovering even more profound insights from the intricate world of Food Reviews.
+
+## Machine Learning algorithms used so far:
+
+Linear regression , Logistic Regression , Decision Tree , k-nearest-neighbours , PCA - Dimensionality reduction algorithm , k-means-clustering , Aggglomerative Clustering , 
+DBSCAN clustering , CountVectorizer , Tfidfvectorizer , AVG-Word2Vector , AVG-TFIDF-Word2Vector
 
 ## Tech Stack
 
